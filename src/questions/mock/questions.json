@@ -1,0 +1,758 @@
+{
+  "questions_order": "asc",
+  "questions": [
+    {
+      "id": "questions100013",
+      "dictionary_identifier": 10021,
+      "value": {
+        "ru": "questions13-checkbox-sample Сейчас я зачитаю Вам характеристики, которые могут быть свойственны препаратам для лечения синдрома сухого глаза. Основываясь на том, что Вы читали или знаете о препаратах, которые я сейчас зачитаю, выберите, пожалуйста, препараты, которым больше всего подходит эта характеристика.Во флаконе содержится в виде раствора, а гель образуется непосредственно на глазной поверхности",
+        "ua": "questions13-checkbox-sample Зараз я зачитаю Вам характеристики, які можуть бути властиві препаратам для лікування синдрому сухого ока. Грунтуючись на тому, що Ви читали або знаєте про препарати, які я зараз зачитаю, виберіть, будь ласка, препарати, яким найбільше підходить ця характеристика. У флаконі міститься у вигляді розчину, а гель утворюється безпосередньо на очної поверхні"
+      },
+      "type": "checkbox",
+      "filters": [
+        {
+          "check_question_id": "questions13",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions1000013a",
+      "dictionary_identifier": 10021,
+      "value": {
+        "ru": "questions13a-checkbox-sample Сейчас я зачитаю Вам характеристики, которые могут быть свойственны препаратам для лечения синдрома сухого глаза. Основываясь на том, что Вы читали или знаете о препаратах, которые я сейчас зачитаю, выберите, пожалуйста, препараты, которым больше всего подходит эта характеристика.Во флаконе содержится в виде раствора, а гель образуется непосредственно на глазной поверхности",
+        "ua": "questions13-checkbox-sample Зараз я зачитаю Вам характеристики, які можуть бути властиві препаратам для лікування синдрому сухого ока. Грунтуючись на тому, що Ви читали або знаєте про препарати, які я зараз зачитаю, виберіть, будь ласка, препарати, яким найбільше підходить ця характеристика. У флаконі міститься у вигляді розчину, а гель утворюється безпосередньо на очної поверхні"
+      },
+      "type": "checkbox",
+      "filters": [
+        {
+          "check_question_id": "questions13a",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions000",
+      "value": {
+        "ru": "Когда? questions28",
+        "ua": "Коли? questions28"
+      },
+      "type": "date",
+      "min_value": "2018-04-9",
+      "max_value": "2018-04-30",
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions28",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "dictionary_identifier": 1564,
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions1",
+      "value": {
+        "ru": "Когда? questions1",
+        "ua": "Коли? questions1"
+      },
+      "type": "date",
+      "min_value": "2018-04-9",
+      "max_value": "2018-04-30",
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions28",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "dictionary_identifier": 1564,
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions10",
+      "dictionary_identifier": 10021,
+      "value": {
+        "ru": "questions10-dictionary-sample FIXED version 14-05 Сейчас я зачитаю Вам характеристики, которые могут быть свойственны препаратам для лечения синдрома сухого глаза. Основываясь на том, что Вы читали или знаете о препаратах, которые я сейчас зачитаю, выберите, пожалуйста, препараты, которым больше всего подходит эта характеристика.Во флаконе содержится в виде раствора, а гель образуется непосредственно на глазной поверхности",
+        "ua": "questions1-dictionary-sample Зараз я зачитаю Вам характеристики, які можуть бути властиві препаратам для лікування синдрому сухого ока. Грунтуючись на тому, що Ви читали або знаєте про препарати, які я зараз зачитаю, виберіть, будь ласка, препарати, яким найбільше підходить ця характеристика. У флаконі міститься у вигляді розчину, а гель утворюється безпосередньо на очної поверхні"
+      },
+      "type": "dictionary",
+      "filters": [
+        {
+          "check_question_id": "questions11",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "desc",
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions11",
+      "dictionary_identifier": 10021,
+      "value": {
+        "ru": "questions11-dictionary-sample FIXED version 14-05 Сейчас я зачитаю Вам характеристики, которые могут быть свойственны препаратам для лечения синдрома сухого глаза. Основываясь на том, что Вы читали или знаете о препаратах, которые я сейчас зачитаю, выберите, пожалуйста, препараты, которым больше всего подходит эта характеристика.Во флаконе содержится в виде раствора, а гель образуется непосредственно на глазной поверхности",
+        "ua": "questions11-dictionary-sample Зараз я зачитаю Вам характеристики, які можуть бути властиві препаратам для лікування синдрому сухого ока. Грунтуючись на тому, що Ви читали або знаєте про препарати, які я зараз зачитаю, виберіть, будь ласка, препарати, яким найбільше підходить ця характеристика. У флаконі міститься у вигляді розчину, а гель утворюється безпосередньо на очної поверхні"
+      },
+      "type": "dictionary",
+      "filters": [
+        {
+          "check_question_id": "questions11",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "desc",
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions12",
+      "dictionary_identifier": 10021,
+      "value": {
+        "ru": "questions12-radiogroup-sample Сейчас я зачитаю Вам характеристики, которые могут быть свойственны препаратам для лечения синдрома сухого глаза. Основываясь на том, что Вы читали или знаете о препаратах, которые я сейчас зачитаю, выберите, пожалуйста, препараты, которым больше всего подходит эта характеристика.Во флаконе содержится в виде раствора, а гель образуется непосредственно на глазной поверхности",
+        "ua": "questions12-radiogroup-sample Зараз я зачитаю Вам характеристики, які можуть бути властиві препаратам для лікування синдрому сухого ока. Грунтуючись на тому, що Ви читали або знаєте про препарати, які я зараз зачитаю, виберіть, будь ласка, препарати, яким найбільше підходить ця характеристика. У флаконі міститься у вигляді розчину, а гель утворюється безпосередньо на очної поверхні"
+      },
+      "type": "radiogroup",
+      "filters": [
+        {
+          "check_question_id": "questions12",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "desc",
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions12a",
+      "dictionary_identifier": 10021,
+      "value": {
+        "ru": "questions12a-radiogroup-sample Сейчас я зачитаю Вам характеристики, которые могут быть свойственны препаратам для лечения синдрома сухого глаза. Основываясь на том, что Вы читали или знаете о препаратах, которые я сейчас зачитаю, выберите, пожалуйста, препараты, которым больше всего подходит эта характеристика.Во флаконе содержится в виде раствора, а гель образуется непосредственно на глазной поверхности",
+        "ua": "questions12a-radiogroup-sample Зараз я зачитаю Вам характеристики, які можуть бути властиві препаратам для лікування синдрому сухого ока. Грунтуючись на тому, що Ви читали або знаєте про препарати, які я зараз зачитаю, виберіть, будь ласка, препарати, яким найбільше підходить ця характеристика. У флаконі міститься у вигляді розчину, а гель утворюється безпосередньо на очної поверхні"
+      },
+      "type": "radiogroup",
+      "filters": [
+        {
+          "check_question_id": "questions12a",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "desc",
+      "max_height": 640,
+      "max_width": 480
+    },
+
+    {
+      "id": "questions14",
+      "value": {
+        "ru": "Проверка видео questions14-video",
+        "ua": "Перевірка відео questions14-video"
+      },
+      "type": "int",
+      "min_value": 0,
+      "max_value": 30,
+      "order": "random",
+      "compare_val": "15",
+      "description": "Описание",
+      "value_src_type": "video",
+      "value_src":"video/Fruitas.webm",
+      "value_preview":"video/Fruitas.jpg",
+      "max_height": 640 ,
+      "max_width": 480
+    },
+    {
+      "id": "questions14a",
+      "value": {
+        "ru": "Проверка видео questions14a-video",
+        "ua": "Перевірка відео questions14-video"
+      },
+      "type": "int",
+      "min_value": 0,
+      "max_value": 30,
+      "order": "random",
+      "compare_val": "15",
+      "description": "Описание",
+      "value_src_type": "video",
+      "value_src":"video/Fruitas.webm",
+      "value_preview":"video/Fruitas.jpg",
+      "max_height": 640 ,
+      "max_width": 480
+    },
+    {
+      "id": "questions15",
+      "value": {
+        "ru": "questions15-table-sample Перед Вами список характеристик препаратов, которые могут влиять на выбор конкретного препарата для лечения синдрома сухого глаза. Выберите, пожалуйста, из списка 5 наиболее важных критериев, которыми, по Вашему мнению, должен обладать препарат для лечения синдрома сухого глаза, чтобы Вы назначили его своим пациентам.",
+        "ua": "questions15-table-sample Перед Вами список характеристик препаратів, які можуть впливати на вибір конкретного препарату для лікування синдрому сухого ока. Виберіть, будь ласка, зі списку 5 найбільш важливих критеріїв, якими, на Вашу думку, повинен володіти препарат для лікування синдрому сухого ока, щоб Ви призначили його своїм пацієнтам."
+      },
+      "type": "table",
+      "min_value": 0,
+      "max_value": 7,
+      "filters": [
+        {
+          "check_question_id": "questions15",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "fields": [
+        {
+          "id": "question180_capt",
+          "caption": {
+            "ru": "Название dictionary 1003",
+            "ua": "Назва dictionary 1003"
+          },
+          "type": "dictionary",
+          "dictionary_identifier": "1003",
+          "is_unique": 1
+        },
+        {
+          "id": "question180_capt",
+          "is_first_column": 1,
+          "caption": {
+            "ru": "Название dictionary 1000",
+            "ua": "Назва dictionary 1000"
+          },
+          "type": "dictionary",
+          "dictionary_identifier": 1000
+        },
+        {
+          "id": "question180_field2",
+          "caption": {
+            "ru": "Справочник",
+            "ua": "Довідник"
+          },
+          "type": "int",
+          "is_unique": 1
+        }
+      ]
+    },
+    {
+      "id": "questions16",
+      "value": {
+        "ru": "questions16-table-sample Перед Вами список характеристик препаратов, которые могут влиять на выбор конкретного препарата для лечения синдрома сухого глаза. Выберите, пожалуйста, из списка 5 наиболее важных критериев, которыми, по Вашему мнению, должен обладать препарат для лечения синдрома сухого глаза, чтобы Вы назначили его своим пациентам.",
+        "ua": "questions15-table-sample Перед Вами список характеристик препаратів, які можуть впливати на вибір конкретного препарату для лікування синдрому сухого ока. Виберіть, будь ласка, зі списку 5 найбільш важливих критеріїв, якими, на Вашу думку, повинен володіти препарат для лікування синдрому сухого ока, щоб Ви призначили його своїм пацієнтам."
+      },
+      "type": "table",
+      "min_value": 0,
+      "max_value": 7,
+      "filters": [
+        {
+          "check_question_id": "questions16",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "fields": [
+        {
+          "id": "question180_capt",
+          "caption": {
+            "ru": "Название dictionary 1003",
+            "ua": "Назва dictionary 1003"
+          },
+          "type": "dictionary",
+          "dictionary_identifier": "1003",
+          "is_unique": 1
+        },
+        {
+          "id": "question180_capt",
+          "is_first_column": 1,
+          "caption": {
+            "ru": "Название dictionary 1000",
+            "ua": "Назва dictionary 1000"
+          },
+          "type": "dictionary",
+          "dictionary_identifier": 1000
+        },
+        {
+          "id": "question180_field2",
+          "caption": {
+            "ru": "Справочник",
+            "ua": "Довідник"
+          },
+          "type": "int",
+          "is_unique": 1
+        }
+      ]
+    },
+    {
+      "id": "questions17",
+      "dictionary_identifier": "1003",
+      "value": {
+        "ru": "questions17-dictionary-sample Сейчас я зачитаю Вам характеристики, которые могут быть свойственны препаратам для лечения синдрома сухого глаза. Основываясь на том, что Вы читали или знаете о препаратах, которые я сейчас зачитаю, выберите, пожалуйста, препараты, которым больше всего подходит эта характеристика.Во флаконе содержится в виде раствора, а гель образуется непосредственно на глазной поверхности",
+        "ua": "questions17-dictionary-sample Зараз я зачитаю Вам характеристики, які можуть бути властиві препаратам для лікування синдрому сухого ока. Грунтуючись на тому, що Ви читали або знаєте про препарати, які я зараз зачитаю, виберіть, будь ласка, препарати, яким найбільше підходить ця характеристика. У флаконі міститься у вигляді розчину, а гель утворюється безпосередньо на очної поверхні"
+      },
+      "type": "dictionary",
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": "equals",
+          "type": "skip_question",
+          "value" :[1,20,30,50]
+        },
+        {
+          "check_question_id": "question17",
+          "condition": "not empty",
+          "type": "skip_question"
+        },
+        {
+          "check_question_id": "questions17",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "asc",
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions18",
+      "value": {
+        "ru": "словарь questions18-dictionary-sample",
+        "ua": "словник questions18-dictionary-sample"
+      },
+      "filters": [
+        {
+          "check_question_id": "questions12",
+          "condition": ">",
+          "type": "skip_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions18",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "type": "dictionary",
+      "order": "random",
+      "dictionary_identifier": "1003"
+    },
+    {
+      "id": "questions19",
+      "value": {
+        "ru": "questions19 Проверка фильтров. Введите число меньше или больше 15",
+        "ua": "questions19 Перевірка фільтрів. Введіть число менше або більше за 15"
+      },
+      "filters": [
+        {
+          "check_question_id": "questions11",
+          "condition": "not empty",
+          "type": "skip_question"
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "type": "int",
+      "min_value": 0,
+      "max_value": 30,
+      "order": "random",
+      "compare_val": "15",
+      "description": "Описание"
+    },
+    {
+      "id": "questions21",
+      "value": {
+        "ru": "questions21 Ввели меньше 15, а именно #questions19#",
+        "ua": "questions21 Менше 15, а саме #questions19#"
+      },
+      "question_value": 15,
+      "type": "int",
+      "min_value": 0,
+      "max_value": 30,
+      "filters": [
+        {
+          "check_question_id": "questions19",
+          "condition": "<",
+          "type": "skip_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": "=",
+          "type": "skip_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions21",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random"
+    },
+    {
+      "id": "questions22",
+      "value": {
+        "ru": "questions22 Ввели больше 15, а именно #questions19#",
+        "ua": "questions22 Більше за 15, а саме а именно #questions19#"
+      },
+      "question_value": 15,
+      "type": "int",
+      "min_value": 0,
+      "max_value": 30,
+      "filters": [
+        {
+          "check_question_id": "questions19",
+          "condition": "=",
+          "type": "skip_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "skip_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": "<",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions22",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random"
+    },
+    {
+      "id": "questions23",
+      "value": {
+        "ru": "questions23 Ваше число = #questions19#",
+        "ua": "questions23 Ваше число = #questions19#"
+      },
+      "question_value": 15,
+      "type": "int",
+      "min_value": 0,
+      "max_value": 30,
+      "filters": [
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "skip_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": "<",
+          "type": "skip_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": "=",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions23",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random"
+    },
+    {
+      "id": "questions24",
+      "value": {
+        "ru": "Слайдер? questions24",
+        "ua": "Слайдер questions24"
+      },
+      "type": "checkbox",
+      "filters": [
+        {
+          "check_question_id": "questions24",
+          "condition": "not empty",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions24",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "dictionary_identifier": "1003",
+      "min_value": 0,
+      "max_value": 4
+    },
+    {
+      "id": "questions25",
+      "value": {
+        "ru": "questions25 Введите значение типа строка?",
+        "ua": "questions25 Будт ласка, оберіть значенню типу стічка"
+      },
+      "type": "string",
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions25",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "dictionary_identifier": 1564
+    },
+    {
+      "id": "questions26",
+      "value": {
+        "ru": "questions26 Введите значение типа строка? Кстати, прошлый раз вы ввели #questions12#",
+        "ua": "questions26 Будь-ласка, оберіть будь-що"
+      },
+      "type": "string",
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions26",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "value_src_type": "image",
+      "value_src": "img/slide.png",
+      "dictionary_identifier": 1564,
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions27",
+      "value": {
+        "ru": "questions27 Введите значение типа флоат? Позапрошлый раз #questions14#",
+        "ua": "questions27 Будь-ласка, оберіть значення с плаваючою точкою"
+      },
+      "type": "float",
+      "min_value": "3.4",
+      "max_value": "23.2",
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions27",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "dictionary_identifier": 1564,
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions28",
+      "value": {
+        "ru": "Когда? questions28",
+        "ua": "Коли? questions28"
+      },
+      "type": "date",
+      "min_value": "2018-04-9",
+      "max_value": "2018-04-30",
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions28",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "dictionary_identifier": 1564,
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions29",
+      "dictionary_identifier": 1000,
+      "value": {
+        "ru": " questions29 Сейчас я зачитаю Вам характеристики, которые могут быть свойственны препаратам для лечения синдрома сухого глаза. Основываясь на том, что Вы читали или знаете о препаратах, которые я сейчас зачитаю, выберите, пожалуйста, препараты, которым больше всего подходит эта характеристика.Во флаконе содержится в виде раствора, а гель образуется непосредственно на глазной поверхности",
+        "ua": "questions29 Зараз я зачитаю Вам характеристики, які можуть бути властиві препаратам для лікування синдрому сухого ока. Грунтуючись на тому, що Ви читали або знаєте про препарати, які я зараз зачитаю, виберіть, будь ласка, препарати, яким найбільше підходить ця характеристика. У флаконі міститься у вигляді розчину, а гель утворюється безпосередньо на очної поверхні"
+      },
+      "type": "checkbox",
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions29",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "desc",
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions31",
+      "value": {
+        "ru": "questions31 Скажите, пожалуйста, ЗА ПОСЛЕДНИЕ 2 НЕДЕЛИ приходил ли к Вам медицинский представитель с информацией о препарате Теалоз?",
+        "ua": "questions31 Скажіть, будь ласка, ЗА ОСТАННІ 2 ТИЖНЯ приходив до Вас медичний представник з інформацією про препарат Теалоз?"
+      },
+      "type": "radiogroup",
+      "text_mask": "phone",
+      "min_value": 0,
+      "max_value": 2,
+      "filters": [
+        {
+          "check_question_id": "questions21",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions31",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random",
+      "dictionary_identifier": 1564,
+      "max_height": 640,
+      "max_width": 480
+    },
+    {
+      "id": "questions32",
+      "value": {
+        "ru": "questions32 Скажите, пожалуйста, сколько пациентов Вы принимаете обычно в ТЕЧЕНИЕ НЕДЕЛИ?",
+        "ua": "questions32 Скажіть, будь ласка, скільки пацієнтів Ви приймаєте зазвичай в ПРОТЯГОМ ТИЖНЯ?"
+      },
+      "type": "int",
+      "text_mask": "phone",
+      "min_value": 0,
+      "max_value": 30,
+      "filters": [
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 10
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": ">",
+          "type": "show_question",
+          "value": 15
+        },
+        {
+          "check_question_id": "questions19",
+          "condition": "not empty",
+          "type": "skip_question"
+        }
+      ],
+      "order": "random"
+    }
+  ]
+}

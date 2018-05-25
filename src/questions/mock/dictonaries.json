@@ -1,0 +1,245 @@
+[
+  {
+    "dictionary_id":"10021",
+    "dictionary_type":"video",
+    "max_height": 640,
+    "max_width": 480,
+    "items":[
+      {
+        "item_id":"1",
+        "item_src":"video/Fruitas.webm",
+        "item_preview":"video/Fruitas.jpg"
+      },
+      {
+        "item_id":"2",
+        "item_src":"video/Mini-boat.webm",
+        "item_preview":"video/Mini-boat.jpg"
+      }
+    ]
+  },
+  {
+    "dictionary_id":"1003",
+    "dictionary_type":"image",
+    "max_height": 640,
+    "max_width": 400,
+    "items":[
+      {
+        "item_id":"1",
+        "item_src":"img/slide1.jpg"
+      },
+      {
+        "item_id":"2",
+        "item_src":"img/slide2.jpg"
+      },
+      {
+        "item_id":"3",
+        "item_src":"img/slide3.jpg"
+      }
+    ]
+  },
+  {
+    "dictionary_id":"2000",
+    "dictionary_type":"simple",
+    "items":[
+      {
+        "item_id":"5",
+        "item_value":{
+          "ru": "Да, был за последние 2 недели",
+          "ua": "Так, був за останні 2 тижні"
+        }
+      },
+      {
+        "item_id":"2",
+        "item_value":{
+          "ru": "Ні, але був раніше",
+          "ua": "Тиждень"
+        }
+      },
+      {
+        "item_id":"3",
+        "item_value":{
+          "ru": "(НЕ ЗАЧИТЫВАТЬ) Сложно оценить",
+          "ua": "(НЕ ЗАЧИТУВАТИ) Складно оцінити"
+        }
+      }
+    ]
+  },
+  {
+    "dictionary_id":"1002",
+    "dictionary_type":"simple",
+    "items":[
+      {
+        "item_id":"1",
+        "item_value":{
+          "ru": "Да, был за последние 2 недели",
+          "ua": "Так, був за останні 2 тижні"
+        }
+      },
+      {
+        "item_id":"2",
+        "item_value":{
+          "ru": "Ні, але був раніше",
+          "ua": "Тиждень"
+        }
+      },
+      {
+        "item_id":"3",
+        "item_value":{
+          "ru": "(НЕ ЗАЧИТЫВАТЬ) Сложно оценить",
+          "ua": "(НЕ ЗАЧИТУВАТИ) Складно оцінити"
+        }
+      }
+    ]
+  },
+  {
+    "dictionary_id":"1001",
+    "dictionary_type":"simple",
+    "items":[
+      {
+        "item_id":"1",
+        "item_value":{
+          "ru": "Да, был за последние 2 недели",
+          "ua": "Так, був за останні 2 тижні"
+        }
+      },
+      {
+        "item_id":"2",
+        "item_value":{
+          "ru": "Ні, але був раніше",
+          "ua": "Тиждень"
+        }
+      },
+      {
+        "item_id":"3",
+        "item_value":{
+          "ru": "(НЕ ЗАЧИТЫВАТЬ) Сложно оценить",
+          "ua": "(НЕ ЗАЧИТУВАТИ) Складно оцінити"
+        }
+      }
+    ]
+  },
+  {
+    "dictionary_id":"1564",
+    "dictionary_type":"simple",
+    "items":[
+      {
+        "item_id":"1",
+        "item_value":{
+          "ru": "Да, был за последние 2 недели",
+          "ua": "Так, був за останні 2 тижні"
+        }
+      },
+      {
+        "item_id":"2",
+        "item_value":{
+          "ru": "Ні, але був раніше",
+          "ua": "Тиждень"
+        }
+      },
+      {
+        "item_id":"3",
+        "item_value":{
+          "ru": "(НЕ ЗАЧИТЫВАТЬ) Сложно оценить",
+          "ua": "(НЕ ЗАЧИТУВАТИ) Складно оцінити"
+        }
+      }
+    ]
+  },
+  {
+    "dictionary_id":"1600",
+    "dictionary_type":"simple",
+    "items":[
+      {
+        "item_id":"1",
+        "item_value":{
+          "ru": "Да, был за последние 2 недели",
+          "ua": "Так, був за останні 2 тижні"
+        }
+      },
+      {
+        "item_id":"2",
+        "item_value":{
+          "ru": "Ні, але був раніше",
+          "ua": "Тиждень"
+        }
+      },
+      {
+        "item_id":"3",
+        "item_value":{
+          "ru": "(НЕ ЗАЧИТЫВАТЬ) Сложно оценить",
+          "ua": "(НЕ ЗАЧИТУВАТИ) Складно оцінити"
+        }
+      }
+    ]
+  },
+
+  {
+    "dictionary_id":"1000",
+    "dictionary_type":"simple",
+    "items":[
+      {
+        "item_id":"1",
+        "item_value":{
+          "ru": "Окутиарз",
+          "ua": "Окутіарз"
+        }
+      },
+      {
+        "item_id":"2",
+        "item_value":{
+          "ru": "Систейн",
+          "ua": "Cістейн"
+        }
+      },
+      {
+        "item_id":"3",
+        "item_value":{
+          "ru": "Теалоз",
+          "ua": "Теалоз"
+        }
+      },
+      {
+        "item_id":"4",
+        "item_value":{
+          "ru": "Хило-Комод",
+          "ua": "Хіло-Комод"
+        }
+      }
+    ]
+  },
+
+  {
+    "dictionary_id":"2",
+    "dictionary_type":"simple",
+    "items":[
+      {
+        "item_id":"1",
+        "item_value":{
+          "ru": "описание окутариаз",
+          "ua": "Окутіарз"
+        }
+      },
+      {
+        "item_id":"2",
+        "item_value":{
+          "ru": "описание Систейн",
+          "ua": "Cістейн"
+        }
+      },
+      {
+        "item_id":"3",
+        "item_value":{
+          "ru": "описание Теалоз",
+          "ua": "Теалоз"
+        }
+      },
+      {
+        "item_id":"4",
+        "item_value":{
+          "ru": "описание Хило-Комод",
+          "ua": "Хіло-Комод"
+        }
+      }
+    ]
+  }
+]

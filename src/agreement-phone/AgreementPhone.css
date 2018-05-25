@@ -1,0 +1,14 @@
+p{
+    font-size: 16px;
+}
+.ts-text-container{
+    padding-top: 25px;
+}
+.ts-help-doctor-text{
+    font-style: italic;
+    color: #0070C0;
+}
+
+.ts-text-container__code-text{
+    font-size: 20px;
+}

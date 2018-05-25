@@ -1,0 +1,15 @@
+
+.ts-phone-check-container .input-group{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.ts-desc-text{
+    padding-bottom: 30px;
+}
+.ts-specify-number-container{
+    margin: 30px 0;
+}
+.ts-specify-number-container div{
+    text-align: center;
+    font-style: italic;
+}

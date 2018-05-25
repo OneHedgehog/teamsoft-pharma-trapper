@@ -1,0 +1,4 @@
+/* if SPA, we get this style in al pages after routing. That's reason, why we can't use nth-of-type */
+footer .home-btn{
+    float: right;
+}

@@ -1,0 +1,140 @@
+.ts-question-container {
+    text-align: center;
+}
+
+.ts-question-container__question-value {
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ts-checkbox-container, .ts-radiobutton-container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.ts-radiobutton-container {
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+}
+
+.ts-image-fixed{
+    width: 80%;
+}
+
+.ts-radiogroup-container__item, .ts-checkbox-container__item {
+    width: 100%;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    position: relative;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    overflow: hidden;
+    padding: 10px 16px;
+}
+
+.ts-radiogroup-container__item:first-child {
+    -webkit-border-radius: 7px 7px 0px 0px;
+    -moz-border-radius: 7px 7px 0px 0px;
+    border-radius: 7px 7px 0px 0px;
+}
+
+.ts-radiogroup-container__item:last-child {
+    -webkit-border-radius: 0px 0px 7px 7px;
+    -moz-border-radius: 0px 0px 7px 7px;
+    border-radius: 0px 0px 7px 7px;
+}
+
+.ts-radiogroup-container__item input, .ts-checkbox-container__item input {
+    position: absolute;
+    left: -30px;
+}
+
+.ts-radiogroup-container__item span, .ts-checkbox-container__item span {
+    margin-left: 30px;
+}
+
+.ts-radiogroup-container__item input:after, .ts-checkbox-container__item input:after {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+    position: relative;
+    left: 40px;
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: #e9ecee;
+    display: block;
+}
+.ts-radiogroup-container__item input:after{
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+
+}
+
+.ts-radiogroup-container__item input:checked:after, .ts-checkbox-container__item input:checked:after {
+    border: 2px solid #fff;
+}
+
+.ts-radiogroup-container__item input:checked:after{
+    background: #506575;
+}
+
+.ts-checkbox-container__item input:checked:after{
+    text-align: center;
+    line-height: 14px;
+    content: 'x';
+}
+
+.ts-int-container label, .ts-date-container label, .ts-string-container label {
+    width: 100%;
+}
+
+.ts-question-descr{
+    color: #0070c0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ts-checkbox-container__media{
+    position: relative;
+    width: 100%;
+}
+
+.ts-checkbox-container__media input{
+    width: 0px;
+}
+
+.ts-for-fixed-footer-padding{
+    padding-bottom: 100px;
+}
+
+.ts-checkbox-container__media input:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+}
+
+.ts-checkbox-container__media input:checked:before{
+    border: 3px solid #2e6da4;
+    opacity: .9;
+}
+
+.ts-table input{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.ts-input-invalid{
+    border: 1px solid crimson!important;
+}
+
+.ts-for-fixed-footer-padding input:focus{
+    z-index: 1!important;
+}

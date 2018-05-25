@@ -1,0 +1,157 @@
+[
+  {
+    "DICTIONARY_ID":1069,
+    "ITEM_ID":1,
+    "ITEM_VALUE":"1. День"
+  },
+  {
+    "DICTIONARY_ID":1069,
+    "ITEM_ID":2,
+    "ITEM_VALUE":"2. Неделя"
+  },
+  {
+    "DICTIONARY_ID":1069,
+    "ITEM_ID":3,
+    "ITEM_VALUE":"3. Месяц"
+  },
+  {
+    "DICTIONARY_ID":1069,
+    "ITEM_ID":4,
+    "ITEM_VALUE":"4. Квартал"
+  },
+  {
+    "DICTIONARY_ID":1069,
+    "ITEM_ID":5,
+    "ITEM_VALUE":"5. Пол года"
+  },
+  {
+    "DICTIONARY_ID":1069,
+    "ITEM_ID":6,
+    "ITEM_VALUE":"6. Год"
+  },
+  {
+    "DICTIONARY_ID":1126,
+    "ITEM_ID":1,
+    "ITEM_VALUE":"1. Называет ответ"
+  },
+  {
+    "DICTIONARY_ID":1126,
+    "ITEM_ID":2,
+    "ITEM_VALUE":"2. Затрудняется ответить"
+  },
+  {
+    "DICTIONARY_ID":1547,
+    "ITEM_ID":1,
+    "ITEM_VALUE":"1. Называет препараты"
+  },
+  {
+    "DICTIONARY_ID":1547,
+    "ITEM_ID":2,
+    "ITEM_VALUE":"2. Затрудняется ответить"
+  },
+  {
+    "DICTIONARY_ID":1548,
+    "ITEM_ID":1,
+    "ITEM_VALUE":"1. Значительно реже, чем 3 месяца назад"
+  },
+  {
+    "DICTIONARY_ID":1548,
+    "ITEM_ID":2,
+    "ITEM_VALUE":"2. Немного реже, 3 месяца назад"
+  },
+  {
+    "DICTIONARY_ID":1548,
+    "ITEM_ID":3,
+    "ITEM_VALUE":"3. Также как и 3 месяца назад"
+  },
+  {
+    "DICTIONARY_ID":1548,
+    "ITEM_ID":4,
+    "ITEM_VALUE":"4. Немного чаще, чем 3 месяца назад"
+  },
+  {
+    "DICTIONARY_ID":1548,
+    "ITEM_ID":5,
+    "ITEM_VALUE":"5. Значительно чаще, чем 3 месяца назад"
+  },
+  {
+    "DICTIONARY_ID":1548,
+    "ITEM_ID":99,
+    "ITEM_VALUE":"99. (НЕ ЗАЧИТЫВАТЬ) Сложно оценить "
+  },
+  {
+    "DICTIONARY_ID":1549,
+    "ITEM_ID":1,
+    "ITEM_VALUE":"1. 1 раз в неделю и чаще"
+  },
+  {
+    "DICTIONARY_ID":1549,
+    "ITEM_ID":2,
+    "ITEM_VALUE":"2. 1 раз в 2 недели"
+  },
+  {
+    "DICTIONARY_ID":1549,
+    "ITEM_ID":3,
+    "ITEM_VALUE":"3. 1 раз в месяц"
+  },
+  {
+    "DICTIONARY_ID":1549,
+    "ITEM_ID":4,
+    "ITEM_VALUE":"4. 2 раза в течение 3-х месяцев"
+  },
+  {
+    "DICTIONARY_ID":1549,
+    "ITEM_ID":5,
+    "ITEM_VALUE":"5. 1 раз в течение 3-х месяцев"
+  },
+  {
+    "DICTIONARY_ID":1549,
+    "ITEM_ID":6,
+    "ITEM_VALUE":"6. реже 1 раза в течение 3-х месяцев"
+  },
+  {
+    "DICTIONARY_ID":1549,
+    "ITEM_ID":99,
+    "ITEM_VALUE":"99. (НЕ ЗАЧИТЫВАТЬ) МП не посещают"
+  },
+  {
+    "DICTIONARY_ID":1550,
+    "ITEM_ID":1,
+    "ITEM_VALUE":"1. Да, был за последние 2 недели"
+  },
+  {
+    "DICTIONARY_ID":1550,
+    "ITEM_ID":2,
+    "ITEM_VALUE":"2. Нет, но был ранее"
+  },
+  {
+    "DICTIONARY_ID":1550,
+    "ITEM_ID":99,
+    "ITEM_VALUE":"3. (НЕ ЗАЧИТЫВАТЬ) Сложно оценить"
+  },
+  {
+    "DICTIONARY_ID":1564,
+    "ITEM_ID":1,
+    "ITEM_VALUE":"Систейн"
+  },
+  {
+    "DICTIONARY_ID":1564,
+    "ITEM_ID":2,
+    "ITEM_VALUE":"Окутиарз"
+  },
+  {
+    "DICTIONARY_ID":1564,
+    "ITEM_ID":3,
+    "ITEM_VALUE":"Теалоз"
+  },
+  {
+    "DICTIONARY_ID":1564,
+    "ITEM_ID":4,
+    "ITEM_VALUE":"Хило-Комод"
+  },
+  {
+    "DICTIONARY_ID":1564,
+    "ITEM_ID":99,
+    "ITEM_VALUE":"Ни одному  (НЕ ЗАЧИТЫВАТЬ)"
+  }
+]

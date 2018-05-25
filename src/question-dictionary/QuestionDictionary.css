@@ -1,0 +1,75 @@
+.ts-dictionary-question{
+    margin: 0 auto;
+    width: 80%;
+    padding: 6px 12px;
+    border-radius: 6px;
+    -webkit-box-shadow: 2px 1px 14px #888888;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+.ts-dictionary-items-container{
+    padding-bottom: 100px;
+}
+.ts-dictionary-items-container ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.ts-dictionary-items-media{
+    width: 90%;
+    margin: 30px auto;
+    box-shadow: 2px 1px 14px #888888;
+}
+.ts-dictionary-items-container ul li:active{
+    box-shadow: 2px 1px 14px #286090;
+}
+.ts-dictionary-items-container ul li img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+.ts-dictionary-selected-image{
+    display: block;
+    margin: 0 auto;
+    width: 91%;
+    height: 100%;
+}
+
+.ts-dictionary-question-image-container{
+    padding: 13px;
+}
+
+.ts-dictionary-question-image-container img{
+    box-shadow: 2px 1px 14px #888888;
+}
+
+.ts-dictionary-question-video{
+    padding: 6px 6px 0px 6px;
+}
+
+.ts-dictionary-question-video img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+.ts-simple-li-container{
+    width: 100%;
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+}
+
+.ts-dictionary-container button{
+    display: block;
+    margin: 20px auto;
+    width: 98.8%;
+    border: none;
+    padding: 10px 0;
+    background: #245580;
+    color: #fff;
+    text-transform: uppercase;
+}
